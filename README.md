@@ -22,6 +22,7 @@ The percentage of male and female customers is equal (50% each).
 The total revenue loss due to churn is $2.86 million.
 Most customers without online backup services are among those who have churned.
 Among internet services, fiber optics provides the highest revenue.
+
 Additional Insights on Churn Customers:
 A total of 1,869 customers have churned, representing 26.5% of the customer base.
 380 customers churned in the last month alone (immediate churn).
