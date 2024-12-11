@@ -1,4 +1,4 @@
-I am excited to share the recent dashboard I developed as part of my virtual internship on Power BI, provided by PwC through Forage.
+I am excited to share the recent dashboard I developed .
 
 Problem Statement:
 The objective was to provide the client with insights into customer churn.
